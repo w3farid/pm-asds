@@ -31,7 +31,7 @@ as the unit of inquiry.
 
 **Sampling frame:** Sampling frame is the complete and up-to-date list of sampling units from which the sample is drawn. example Sampling frame for household survey.
 
-**Parameter, Statistics, Estimator and Estimate:** Population charactersitic is called parameter. Sample charactersitic is called statistics. when estimate an unknown parameter, then it is called estimator. A particular value of the esimator is called an estimate. For example, population mean When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+**Parameter, Statistics, Estimator and Estimate:** Population charactersitic is called parameter. Sample charactersitic is called statistics. when estimate an unknown parameter, then it is called estimator. A particular value of the esimator is called an estimate. For example, population mean $(\mu)$, population variance $(\sigma^{2})$, population standard deviation $(\sigma)$, population proportion $(p)$, etc. are parameters. Sample mean $(\bar{x})$, sample variance $(\s{2})$, sample standard deviation (s), sample proportion $(\hat{p})$, etc. are statistics as well as
+estimators.
 
 
